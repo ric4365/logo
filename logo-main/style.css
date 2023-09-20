@@ -1,0 +1,39 @@
+*
+{
+margin: 0px;
+}
+
+.Logoepic {
+    width:60px;
+}
+header
+{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+body
+{
+    background-color: black;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-decoration: none;
+    list-style: none;
+    color: white;
+}
+
+nav a{
+    list-style: none;
+    text-decoration: none;
+    color: rgb(138, 0, 192);
+}
+
+.Fornai
+{
+    width: 900px;
+    align-items: center;
+    text-align: center;
+}
